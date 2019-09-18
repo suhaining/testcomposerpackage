@@ -1,7 +1,7 @@
 <?php
-namespace SuNing\MyTestComposerPackage;
+namespace SuNingTestComposerPackage;
 
-class SuningTestComposerPackage
+class SuNing
 {
     public function test()
     {

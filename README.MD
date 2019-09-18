@@ -37,3 +37,5 @@ $suNingClass = new SuNing();
 echo $suNingClass->test();
 输出：
 this is suning composer package test
+#包的地址
+https://packagist.org/packages/suhaining/testcomposerpackage
